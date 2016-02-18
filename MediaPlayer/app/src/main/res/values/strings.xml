@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="download_id">download</string>
+    <string name="exit_id">exit</string>
+</resources>
