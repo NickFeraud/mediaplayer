@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edu.fsu.cs.groupproject.radar.RadarView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/radar_view"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:layout_centerInParent="true" />

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.fsu.cs.groupproject.radar.RadarActivity">
+
+    <item
+        android:id="@+id/map"
+        android:orderInCategory="100"
+        android:title="Map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/radar"
+        android:orderInCategory="100"
+        android:title="Radar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/store"
+        android:orderInCategory="100"
+        android:title="Store"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/list"
+        android:orderInCategory="100"
+        android:title="List"
+        app:showAsAction="never" />
+</menu>
